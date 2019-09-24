@@ -1,0 +1,16 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,PerformanceAnalysis/ActorMapBenchmark$MyState.doSetup
+inline,PerformanceAnalysis/ActorMapBenchmark$MyState.doTearDown
+inline,PerformanceAnalysis/ActorMapBenchmark.getMultiSize
+inline,PerformanceAnalysis/ActorMapBenchmark.getMultiValues
+inline,PerformanceAnalysis/ActorMapBenchmark.getMultiValuesMultiThreads
+inline,PerformanceAnalysis/ActorMapBenchmark.getSingleSize
+inline,PerformanceAnalysis/ActorMapBenchmark.getSingleValue
+inline,PerformanceAnalysis/ActorMapBenchmark.putMultiValues
+inline,PerformanceAnalysis/ActorMapBenchmark.putMultiValuesMultiThreads
+inline,PerformanceAnalysis/ActorMapBenchmark.putSingleValue
+inline,PerformanceAnalysis/MyBenchmark.testMethod
